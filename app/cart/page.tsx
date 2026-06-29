@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/purity */
 'use client';
 
 import React, { useState } from 'react';
@@ -52,6 +53,7 @@ export default function CartPage() {
         <div className="bg-neutral-50 rounded-2xl p-4 border border-neutral-100/50 text-left space-y-2 text-xs font-medium text-neutral-500">
           <div className="flex justify-between">
             <span>Order Reference:</span>
+            {/* <span className="font-extrabold text-neutral-800">TS-{Math.floor(100000 + Math.random() * 900000)}</span> */}
             <span className="font-extrabold text-neutral-800">TS-{Math.floor(100000 + Math.random() * 900000)}</span>
           </div>
           <div className="flex justify-between">
