@@ -213,28 +213,29 @@
     "featured": false
   },
   {
-    "id": "gopro-hero-12",
-    "title": "GoPro HERO12 Black",
-    "brand": "GoPro",
-    "category": "Cameras",
-    "description": "Incredible image quality, even better HyperSmooth video stabilization, and a huge boost in battery life. Records 5.3K video with high dynamic range.",
-    "price": 45000,
-    "discount": 15,
-    "rating": 4.6,
-    "stock": 12,
-    "images": [
-      "https://images.unsplash.com/photo-1500643752441-4da900df1189?w=800&auto=format&fit=crop&q=60",
-      "https://images.unsplash.com/photo-1564466809058-6fcb14962c64?w=800&auto=format&fit=crop&q=60"
-    ],
-    "specifications": {
-      "Video Resolution": "5.3K60, 4K120, 2.7K240",
-      "Photo Resolution": "27 Megapixels",
-      "Stabilisation": "HyperSmooth 6.0",
-      "Water Resistance": "Waterproof up to 10m (33ft)",
-      "Wireless Connectivity": "Wi-Fi + Bluetooth"
-    },
-    "featured": false
+  "id": "samsung-galaxy-tab-a9-plus",
+  "title": "Samsung Galaxy Tab A9+",
+  "brand": "Samsung",
+  "category": "Tablets",
+  "description": "Enjoy entertainment, reading, and productivity on the 11-inch display with a powerful Snapdragon processor and long-lasting battery.",
+  "price": 22999,
+  "discount": 10,
+  "rating": 4.6,
+  "stock": 35,
+  "images": [
+    "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=60",
+    "https://images.unsplash.com/photo-1589739900243-4b52cd9b104e?w=800&auto=format&fit=crop&q=60"
+  ],
+  "specifications": {
+    "Display": "11-inch TFT LCD",
+    "Processor": "Snapdragon 695",
+    "RAM": "8GB",
+    "Storage": "128GB",
+    "Battery": "7040mAh",
+    "Connectivity": "Wi-Fi"
   },
+  "featured": false
+},
   {
     "id": "ipad-pro-m4",
     "title": "iPad Pro 13\" (M4)",
@@ -305,28 +306,28 @@
     },
     "featured": false
   },
-  {
-    "id": "kindle-paperwhite",
-    "title": "Kindle Paperwhite 16GB",
-    "brand": "Amazon",
-    "category": "E-readers",
-    "description": "Now with a 6.8-inch display and thinner borders, adjustable warm light, up to 10 weeks of battery life, and 20% faster page turns.",
-    "price": 14999,
-    "discount": 10,
-    "rating": 4.5,
-    "stock": 40,
-    "images": [
-      "https://images.unsplash.com/photo-1544822417-e8104593d8be?w=800&auto=format&fit=crop&q=60",
-      "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800&auto=format&fit=crop&q=60"
-    ],
-    "specifications": {
-      "Display": "6.8\" Paperwhite display, 300 ppi, glare-free",
-      "Storage": "16 GB",
-      "Waterproofing": "IPX8 (Submersion in water)",
-      "Battery Life": "Up to 10 weeks on a single charge",
-      "Connectivity": "Wi-Fi"
-    },
-    "featured": false
+ {
+  "id": "canon-eos-r50",
+  "title": "Canon EOS R50 Mirrorless Camera",
+  "brand": "Canon",
+  "category": "Cameras",
+  "description": "Capture stunning 24.2MP photos and 4K UHD videos with Canon's lightweight EOS R50 mirrorless camera. Perfect for creators and travel photography.",
+  "price": 68999,
+  "discount": 12,
+  "rating": 4.8,
+  "stock": 15,
+  "images": [
+    "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop&q=60",
+    "https://images.unsplash.com/photo-1502920917128-1aa500764ce7?w=800&auto=format&fit=crop&q=60"
+  ],
+  "specifications": {
+    "Sensor": "24.2MP APS-C CMOS",
+    "Video": "4K UHD 30fps",
+    "Display": "3-inch Vari-angle Touchscreen",
+    "Autofocus": "Dual Pixel CMOS AF II",
+    "Connectivity": "Wi-Fi & Bluetooth"
+  },
+  "featured": false
   },
   {
     "id": "dji-mini-4-pro",
